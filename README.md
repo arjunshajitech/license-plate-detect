@@ -1,6 +1,6 @@
 # License Plate Detection Project
 
-This project utilizes YOLOv5 and Optical Character Recognition (OCR) to detect and read license plates from images. The license plate detection is performed using YOLOv5, and the extracted plates are processed using Tesseract OCR to read the text.
+This project utilizes YOLOv11 and Optical Character Recognition (OCR) to detect and read license plates from images. The license plate detection is performed using YOLOv11, and the extracted plates are processed using Tesseract OCR to read the text.
 
 ## Requirements
 
